@@ -20,6 +20,7 @@
 		D6A97C7A25FC4ACD00875C61 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A97C7925FC4ACD00875C61 /* FeedViewController.swift */; };
 		D6A97C7F25FC53D900875C61 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A97C7E25FC53D900875C61 /* CameraViewController.swift */; };
 		D6A97C9825FC5F2700875C61 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A97C9725FC5F2700875C61 /* PostCell.swift */; };
+		D6BD792826056CA30038E548 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6BD792726056CA30038E548 /* CommentCell.swift */; };
 		EDA213A9E8F7017A7612421B /* Pods_Parstagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CF5CBFE54DEC1C469B77548 /* Pods_Parstagram.framework */; };
 /* End PBXBuildFile section */
 
@@ -66,6 +67,7 @@
 		D6A97C7925FC4ACD00875C61 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		D6A97C7E25FC53D900875C61 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		D6A97C9725FC5F2700875C61 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		D6BD792726056CA30038E548 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		E5BF1241209E9EACDB308EC3 /* Pods-Parstagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram.release.xcconfig"; path = "Target Support Files/Pods-Parstagram/Pods-Parstagram.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -142,6 +144,7 @@
 				D6A97C3B25FBF2B400875C61 /* Assets.xcassets */,
 				D6A97C3D25FBF2B400875C61 /* LaunchScreen.storyboard */,
 				D6A97C4025FBF2B400875C61 /* Info.plist */,
+				D6BD792726056CA30038E548 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				D6A97C7A25FC4ACD00875C61 /* FeedViewController.swift in Sources */,
 				D6A97C3525FBF2B200875C61 /* SceneDelegate.swift in Sources */,
 				D6A97C9825FC5F2700875C61 /* PostCell.swift in Sources */,
+				D6BD792826056CA30038E548 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
